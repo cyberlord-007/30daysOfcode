@@ -1,0 +1,2 @@
+Range: 5
+Coefficient Of Range: 0.714286
